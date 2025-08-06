@@ -5,6 +5,7 @@
 The original game can be found at http://orteil.dashnet.org/cookieclicker/
 
 This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online
+https://raw.githack.com/AlexDuyNguyen/cookieclicker/gh-pages/index.html
 
 ### How to update
 
